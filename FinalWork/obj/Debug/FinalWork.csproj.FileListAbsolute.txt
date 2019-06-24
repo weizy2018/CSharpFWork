@@ -1,0 +1,7 @@
+E:\courses\C#程序设计\workspace\FinalWork\FinalWork\bin\Debug\FinalWork.exe.config
+E:\courses\C#程序设计\workspace\FinalWork\FinalWork\bin\Debug\FinalWork.exe
+E:\courses\C#程序设计\workspace\FinalWork\FinalWork\bin\Debug\FinalWork.pdb
+E:\courses\C#程序设计\workspace\FinalWork\FinalWork\obj\Debug\FinalWork.csprojAssemblyReference.cache
+E:\courses\C#程序设计\workspace\FinalWork\FinalWork\obj\Debug\FinalWork.csproj.CoreCompileInputs.cache
+E:\courses\C#程序设计\workspace\FinalWork\FinalWork\obj\Debug\FinalWork.exe
+E:\courses\C#程序设计\workspace\FinalWork\FinalWork\obj\Debug\FinalWork.pdb

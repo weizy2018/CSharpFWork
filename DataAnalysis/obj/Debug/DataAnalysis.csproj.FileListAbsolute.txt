@@ -1,0 +1,12 @@
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\bin\Debug\DataAnalysis.exe.config
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\bin\Debug\DataAnalysis.exe
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\bin\Debug\DataAnalysis.pdb
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\bin\Debug\JiebaNet.Analyser.dll
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\bin\Debug\JiebaNet.Segmenter.dll
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\bin\Debug\Newtonsoft.Json.dll
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\bin\Debug\Newtonsoft.Json.xml
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\obj\Debug\DataAnalysis.csprojAssemblyReference.cache
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\obj\Debug\DataAnalysis.csproj.CoreCompileInputs.cache
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\obj\Debug\DataAnalysis.csproj.CopyComplete
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\obj\Debug\DataAnalysis.exe
+E:\courses\C#程序设计\workspace\FinalWork\DataAnalysis\obj\Debug\DataAnalysis.pdb
