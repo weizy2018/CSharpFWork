@@ -201,11 +201,11 @@ namespace DataAnalysis
             string savePath = @"D:\dataAnalysis";
             
             Analysis analysis = new Analysis(dataPath, savePath);
-            //analysis.weekNews();
-            //analysis.departmentNews();
+            analysis.weekNews();
+            analysis.departmentNews();
             analysis.wordCut();
 
-            //Console.WriteLine("分析完成， 结果保存在{0}中", savePath);
+            Console.WriteLine("分析完成， 结果保存在{0}中", savePath);
 
         }
     }
